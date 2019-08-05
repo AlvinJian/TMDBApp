@@ -1,3 +1,4 @@
+Authors : Alvin Jian and Anh Dao
 Directory structure:
 - python tools for breaking down data: csv_tools/
 - java GUI: gui/
